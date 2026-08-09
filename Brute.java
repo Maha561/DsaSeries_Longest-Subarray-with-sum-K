@@ -65,5 +65,8 @@ public class Brute {
 TC : O(n^3)
 sc: O(1)
 
+output - Longest Length = 3
+2 1 3 
+
 this solution is applicable for the array containing postive , negative and zero elements and if it does not contain the sumarray of k 
  */
